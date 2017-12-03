@@ -1,0 +1,60 @@
+
+img.avatar {
+    width: 10%;
+    border-radius: 50%;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+
+img.avatar {
+    width: 10%;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.container{
+    padding: 16px;
+}
+
+.regist {
+    background-color: #1d6ef2;
+    color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 60%;
+}
+
+.login:hover {
+    opacity: 0.8;
+}
+.uname, .psw {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.cancelbtn {
+    width: 30%;
+    padding: 12px 20px;
+    background-color: #df2d3c;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.cancelbtn:hover {
+    opacity: 0.8;
+}
+
+.reg{
+	background: #c0f9e1;
+	text-align: center;
+	color: #4b4b4b;
+
+}
+
