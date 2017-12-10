@@ -2,10 +2,11 @@
 img.avatar {
     width: 10%;
     border-radius: 50%;
+      margin:0 0 5px 0;
 }
 .imgcontainer {
     text-align: center;
-    margin: 0 0 0 0;
+    margin:0;
 }
 
 img.avatar {
@@ -17,17 +18,17 @@ img.avatar {
     padding: 16px;
 }
 
-.login {
+.regist {
     background-color: #1d6ef2;
     color: white;
     padding: 12px 20px;
-    margin: 8px 0;
+    margin: 5px 0;
     border: none;
     cursor: pointer;
     width: 60%;
 }
 
-.login:hover {
+.regist:hover {
     opacity: 0.8;
 }
 .uname, .psw{
@@ -49,19 +50,18 @@ img.avatar {
 .cancelbtn:hover {
     opacity: 0.8;
 }
+.reg{
+    background: #c0f9e1;
+    padding: 30px 0 0 0;
+    text-align: center;
+    color: #4b4b4b;
 
-.user{
-	background: #c0f9e1;
-	padding: 30px 0 0 0;
-	text-align: center;
-	color: #4b4b4b;
 }
-
 #reg{
-	margin: 8px 0;
+    margin: 8px 0;
 }
 
-#error{
-    margin: 15px 0 0 0;
+.error{
+    margin: 20px 0 0 0;
     width: 50%;
 }

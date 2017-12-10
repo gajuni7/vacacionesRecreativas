@@ -1,0 +1,83 @@
+
+.avatar {
+    width: 15%;
+    border-radius: 20%;
+}
+
+.container{
+    padding: 10px 0 10px 0;
+}
+.logout{
+    width: 60%;
+    margin: 6px 0;
+}
+.regist {
+    background-color: #1d6ef2;
+    color: white;
+    padding: 15px 20px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+    width: 60%;
+}
+
+.regist:hover {
+    opacity: 0.8;
+}
+.descrip{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.cancelbtn {
+    width: 30%;
+    padding: 15px 20px;
+    margin: 5px 0 20px 0;
+    background-color: #df2d3c;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.cancelbtn:hover {
+    opacity: 0.8;
+}
+.reg{
+    background: #c0f9e1;
+    padding: 20px 0 0 0;
+    text-align: center;
+    color: #4b4b4b;
+
+}
+#reg{
+    margin: 8px 0;
+}
+
+.error{
+    margin: 20px 0 0 0;
+    width: 50%;
+}
+
+#hora{
+    width: 25%;
+}
+
+.menu:hover{  
+    width: 8.3%;
+    border-radius: 20%;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .4);
+}    
+
+.menu{
+    width: 8.3%;
+    border-radius: 20%;
+}
+.top{
+    margin-top: 5px;
+}
+.error{
+    margin: 20px 0 0 0;
+    width: 50%;
+}
