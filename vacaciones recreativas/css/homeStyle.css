@@ -1,0 +1,39 @@
+
+.calendar{
+	border-top: 1px solid black;
+	background: #df2d3c;
+	padding: 30px 0 0 0;
+	text-align: center;
+	padding: 20px 0 20px 0;
+}
+
+.avatar {
+    width: 5%;
+    cursor: pointer;
+}
+.logout{
+	width: 40%;
+	margin: 6px 0;
+}
+#calendar {
+	width: 700px;
+	margin: 0 auto;
+	font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+	font-size: 14px;
+	color: black;
+	font-weight: bold;
+	
+}
+
+#container{
+	background-color: white;
+	border-radius: 5px;
+	width: 57%;
+	padding: 20px 0 20px 0;
+	box-shadow: 8px 8px 0 black, 0 10px 20px rgba(0, 0, 0, .4);
+}
+
+.user{
+		margin: 12px 0;
+
+}
